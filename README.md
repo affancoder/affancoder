@@ -22,6 +22,8 @@ Database - MySQL & MongoDB
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://affancoder.github.io/Portfolio_Website/)
 
+📫 How to reach me:
+
 Email: affanasgar8@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/mdaffanasghar/
