@@ -2,7 +2,25 @@
 
 👋 Hi, I’m @affancoder (MD Affan Asghar)
 
-                                                                                GIF
+
+
+
+
+
+
+
+
+GIF
+
+
+
+
+
+
+
+
+
+
 
 👀 I’m interested in codding.
 🌱 I’m currently Full Stack Web developer & Java Proggrammer.
