@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD Affan Asghar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img align="right" alt="code" width="400" src="src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2kyiS8r6gukTlxmTMLdPIB&ust=1700323691407000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjZl8e1y4IDFQAAAAAdAAAAABAE">
+<img align="right" alt="code" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2kyiS8r6gukTlxmTMLdPIB&ust=1700323691407000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjZl8e1y4IDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=affancoder&label=Profile%20views&color=0e75b6&style=flat" alt="affancoder" /> </p>
 
