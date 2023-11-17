@@ -4,7 +4,7 @@
 
 👀 I’m interested in coding.
  
-🌱 I’m currently Full Stack Web developer & Java Programmer.
+🌱 I’m currently learning Full Stack Web development & Java Programming.
 
 💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
 
