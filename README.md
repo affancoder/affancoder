@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **Mern Stack & Java programming with DSA**
 
-- 👯 I’m looking to collaborate on **Spotify Clone**
+- 👯 I’m looking to collaborate on **Full stack Projects**
+
+- 🎇 Scroll Down must to see my **Pinned Projects**
 
 - 👨‍💻 All of my projects are available at [https://affancoder.github.io/Portfolio_Website/](https://affancoder.github.io/Portfolio_Website/)
 
