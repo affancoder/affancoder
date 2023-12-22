@@ -39,11 +39,14 @@
 
 
 ## 🛠 Skills
-Frontend - Javascript, HTML, CSS
 
-Framework - Bootstrap & TailwindCSS 
+Programming : C, C++, Java & Python
 
-Backend - Node & Express
+Frontend - HTML, CSS, Javascript & React
+
+Frontend Framework - Bootstrap & TailwindCSS 
+
+Backend - Node.js & Express.js
 
 Database - MySQL & MongoDB
 
