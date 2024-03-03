@@ -25,30 +25,17 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=affancoder&" alt="affancoder" /></p>
 
-
-
-
-## 🚀 About Me
-👋 Hi, I’m @affancoder (MD Affan Asghar)
-
-👀 I’m interested in coding.
- 
-🌱 I’m currently learning Full Stack Web development & Java Programming.
-
-💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
-
-
 ## 🛠 Skills
 
 Programming : C, C++, Java & Python
 
-Frontend - HTML, CSS, Javascript & React
+Frontend Technologies : HTML, CSS, Javascript + React
 
-Frontend Framework - Bootstrap & TailwindCSS 
+Frontend Framework : Bootstrap & TailwindCSS 
 
-Backend - Node.js & Express.js
+Backend Technologies : Node Js, Express Js, EJS, API
 
-Database - MySQL & MongoDB
+Database : MySQL & MongoDB
 
 
 ## 🔗 Links
