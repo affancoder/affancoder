@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=affancoder&label=Profile%20views&color=0e75b6&style=flat" alt="affancoder" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce Web app**
+- 🔭 I’m currently working on **Full Stack Ed-Tech Platform**
 
 - 🌱 I’m currently learning **Mern Stack & Java programming with DSA**
 
