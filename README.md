@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **affanasgar8@gmail.com**
 
-- 📄 Know about my experiences [Drive link of CV](https://drive.google.com/file/d/1R-9x5rH44PUEkm2rVN_4kUKSViXKhSpy/view?usp=drive_link)
+- 📄 Know about my experiences [Drive link of CV]([https://drive.google.com/file/d/1R-9x5rH44PUEkm2rVN_4kUKSViXKhSpy/view?usp=drive_link](https://drive.google.com/file/d/1-K5kKG5Dp18ZQgC419Gj8brDZjTZuKtE/view?usp=drive_link))
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=affancoder&show_icons=true&locale=en&layout=compact" alt="affancoder" /></p>
 
