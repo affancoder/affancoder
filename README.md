@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD Affan Asghar</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 <img align="right" alt="code" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gifhttps://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
