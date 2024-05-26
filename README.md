@@ -13,11 +13,11 @@
 
 - 🎇 Scroll Down must to see my **Pinned Projects**
 
-- 👨‍💻 All of my projects are available at [Portfolio_Website](https://affancoder.github.io/Portfolio_Website/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://affancoder.github.io/Portfolio_Website/)
 
 - 📫 How to reach me **affanasgar8@gmail.com**
 
-- 📄 Know about my experiences [Drive link of CV](https://drive.google.com/file/d/1-K5kKG5Dp18ZQgC419Gj8brDZjTZuKtE/view?usp=drive_link)
+- 📄 Know about my experiences [Drive link of CV](https://drive.google.com/file/d/1mHzbhY_wtfB1TqPyikX86_PdlOWJlKfA/view?usp=drive_link)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=affancoder&show_icons=true&locale=en&layout=compact" alt="affancoder" /></p>
 
