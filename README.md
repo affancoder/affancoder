@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm MD Affan Asghar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<img align="right" alt="code" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gifhttps://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=affancoder&label=Profile%20views&color=0e75b6&style=flat" alt="affancoder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=affancoder" alt="affancoder" /></a> </p>
 
+<img align="right" alt="code" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gifhttps://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+
 - 🔭 I’m currently working on **Full Stack Ed-Tech Project**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://affancoder.github.io/Portfolio_Website/](https://affancoder.github.io/Portfolio_Website/)
+- 👨‍💻 All of my projects are available at [Portfolio_Website](https://affancoder.github.io/Portfolio_Website/)
 
 - 📫 How to reach me **affanasgar8@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mHzbhY_wtfB1TqPyikX86_PdlOWJlKfA/view?usp=drivesdk](https://drive.google.com/file/d/1mHzbhY_wtfB1TqPyikX86_PdlOWJlKfA/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mHzbhY_wtfB1TqPyikX86_PdlOWJlKfA/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
