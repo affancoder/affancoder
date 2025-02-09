@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Full Stack Ed-Tech Project**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structures & Algorithms and React Native**
 
 - 👨‍💻 All of my projects are available at [Portfolio_Website](https://affancoder.github.io/Portfolio_Website/)
 
