@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **affanasgar8@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oJuO83WrADHb-O7Ap9Uorb-0VqaEnqia/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1L85pgoooeA-KX53XxWMutuGpNxQ-60Tm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
